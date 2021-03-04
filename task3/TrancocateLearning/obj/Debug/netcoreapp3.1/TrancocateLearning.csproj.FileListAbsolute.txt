@@ -1,0 +1,12 @@
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\bin\Debug\netcoreapp3.1\TrancocateLearning.exe
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\bin\Debug\netcoreapp3.1\TrancocateLearning.deps.json
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\bin\Debug\netcoreapp3.1\TrancocateLearning.runtimeconfig.json
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\bin\Debug\netcoreapp3.1\TrancocateLearning.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\bin\Debug\netcoreapp3.1\TrancocateLearning.dll
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\bin\Debug\netcoreapp3.1\TrancocateLearning.pdb
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\obj\Debug\netcoreapp3.1\TrancocateLearning.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\obj\Debug\netcoreapp3.1\TrancocateLearning.AssemblyInfo.cs
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\obj\Debug\netcoreapp3.1\TrancocateLearning.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\obj\Debug\netcoreapp3.1\TrancocateLearning.dll
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\obj\Debug\netcoreapp3.1\TrancocateLearning.pdb
+C:\Users\hoang\source\repos\TrancocateLearning\TrancocateLearning\obj\Debug\netcoreapp3.1\TrancocateLearning.genruntimeconfig.cache
