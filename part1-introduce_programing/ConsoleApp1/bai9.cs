@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bai11
+namespace Bai9
 {
     class Program
     {
